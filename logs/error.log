@@ -1,0 +1,9 @@
+2024-10-20 12:44:11:4411 [31merror[39m: [31mNão foi possível conectar[39m
+2024-10-20 12:44:11:4411 [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.vjkcba.mongodb.net[39m
+2024-10-20 12:45:14:4514 [31merror[39m: [31mNão foi possível conectar[39m
+2024-10-21 11:29:10:2910 [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2024-10-21 12:53:52:5352 [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2024-10-21 12:57:05:575 [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2024-10-21 12:58:18:5818 [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2024-10-21 12:58:40:5840 [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2024-10-21 13:01:07:17 [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
